@@ -30,6 +30,7 @@ text
 
 text
 
+---
 
 ## Week 2
 
@@ -61,6 +62,7 @@ text
 
 text
 
+---
 
 ## Week 3
 
@@ -91,3 +93,5 @@ text
 ### What theory proved to be useful and why? What have I learnt from this?
 
 text
+
+---
