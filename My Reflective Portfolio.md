@@ -48,7 +48,7 @@ An insight that I have gained is the fact that complex systems use the Wisdom Hi
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-My strengths and weaknesses vary day to day, however during the workshop I noticed that it was easy for me to understand the content of the workshop when paired with a definition, example, and comparison of a particlar concept. However, I tend to lose track during a lecture if I get side-tracked with distractions around me, especially if lecture slides are not provided prior to the class.
+In the second week, my strengths and weaknesses are still very much the same as the previous noting that it was easy for me to understand the content of the workshop when paired with a definition, example, and comparison of a particlar concept. However, I tend to lose track during a lecture if I get side-tracked with distractions around me, especially if lecture slides are not provided prior to the class.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
