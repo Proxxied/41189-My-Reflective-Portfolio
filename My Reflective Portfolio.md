@@ -36,31 +36,31 @@ As mentioned previously, examples and theories found within the lecture futher a
 
 ### What have I learnt this week?
 
-text
+For the second week of this subject, I have learnt how to better understand models in particular, complex adaptive systems and the overall science of these types of models. This new found understanding is backed up by the theories explored during the lecture in order to provide informal content to the participants.
 
 ### What do I 'now know' that I did not before?
 
-text
+Not only did I learn about the content about complex adaptive systems, but also the science behind them, including the theorems of *Diversity Prediction Theorem*, and the *Condorcet Jury Theorem*. And also understanding the seven uses of models, i.e. REDCAPE.
 
 ### What insights have I gained?
 
-text
+An insight that I have gained is the fact that complex systems use the Wisdom Hierarchy in order to decipher the *many model thinking* including the knowledge, information, and data behind each individual model.
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-text
+My strengths and weaknesses vary day to day, however during the workshop I noticed that it was easy for me to understand the content of the workshop when paired with a definition, example, and comparison of a particlar concept. However, I tend to lose track during a lecture if I get side-tracked with distractions around me, especially if lecture slides are not provided prior to the class.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-text
+As previously mentioned, I tend to get side-tracked often if I get distracted, so a fundamental challenge for me personally, would be to adjust my learning and to adapt to this new environment.
 
 ### What would I do better next time and with what anticipated results?
 
-text
+I would need to focus on the developing content rather than unnecessary and rather irrelevant things during a lecture in order for me personally, to understand the content at hand, which will in turn, pull greater results.
 
 ### What theory proved to be useful and why? What have I learnt from this?
 
-text
+By far the most useful theory is the *Diversity Prediction Theorem* or better known as the wisdom of the crowd, where different opinions and ideas about a particular topic can influence the resulting outcome of a model (if done correctly).
 
 ---
 
