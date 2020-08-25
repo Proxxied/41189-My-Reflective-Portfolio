@@ -68,31 +68,31 @@ By far the most useful theory is the *Diversity Prediction Theorem* or better kn
 
 ### What have I learnt this week?
 
-text
+This week was very interesting, as the lecture went through important takeaways such as the difference between rational, behavioural and rule-based attributes, whilst undertaking the fundamentals of how people can add value and power, solve problems as a team, and how individuals can potentially reveal and conceal information.
 
 ### What do I 'now know' that I did not before?
 
-text
+I knew the basic fundamentals of how one could potentially act under pressure or vise-versa in terms of decision making, and behavioural traits, however, I now know these aspects of the human behaviour in higher detail, especially with the help of the signaling model.
 
 ### What insights have I gained?
 
-text
+The main insight I have gained after the lecture was how to successfully approach a problem with a more viable solution in a team environment, which is the pairing of both diverse perspectives with diverse heuristics. A key takeaway from the session is the model of problem solving and innovation: *Perspectives --> Heuristics --> Team Diversity --> Recombination = Innovation*.
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-text
+During this session I noticed that my mindset to learn and grow is ready to undertake any task at hand, however, considering that the next few assessment tasks are group related, I can be socially difficult to work with, especially with people whom I have never worked with. 
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-text
+I guess the main challenge I have encountered and observed from this session is the undeniable element of mathematics found within the lecture slides and throughout the course. Personally, I'm not a big fan of math in general, however I can easily ask my team for future assistance with them if and when required to.
 
 ### What would I do better next time and with what anticipated results?
 
-text
+As mentioned above, I can quite easily ask my team for future assistance which will work vise-versa if they need any help within the scope of this subject, with the resulting factor of successfully passing the subject and potentially achieving high results.
 
 ### What theory proved to be useful and why? What have I learnt from this?
 
-text
+As mentioned previously, the most beneficial theorem for this week is the signaling model, or most notably the *Costly Signaling Theory* which not only peaked my interest, but also helped in my understanding of human actions and emotions, proving that each action has meaning, or in other words, costliness carries meaning. 
 
 ---
 
