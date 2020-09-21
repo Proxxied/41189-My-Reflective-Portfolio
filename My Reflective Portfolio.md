@@ -98,43 +98,31 @@ As mentioned previously, the most beneficial theorem for this week is the signal
 
 ## Week 4
 
-### What have I learnt this week?
+### What have I learnt this week? What do I 'now know' that I did not before?
 
-text
-
-### What do I 'now know' that I did not before?
-
-text
+After the conclusion of this week's class, I was able to understand the three different ways to model complex adaptive systems, that of through system dynamics models, network models, and agent-based models. For the entire duration of the lecture, I was keen to learn and understand differing versions of this topic, however what peaked my attention the most was the concept of casual loop diagrams (CLD), as it essentially provides a visual and graphical representation of relationships between different variables, whether categorised as a reinforcing loop (two positives) and a balancing loop (a positive and a negative). As part of the system dynamics models, CLD in my opinion would be critically useful considering that it can graphically provide instantaneous information about the variables in question, which is why this model especially, peaked my interest.
 
 ### What insights have I gained?
 
-text
+In addition to what I mentioned above, another topic that peaked my interests in the lecture, which further provided additional insights was actually a video played, which provided a visual demonstration of agent-based modelling working with simple rules in order to learn and essentially create a "hide and seek" simulation, whereby at each intervals, the agents were able to learn and adapt new techniques to improve their overall playstyle, which to be honest, suprised me simply because I did not expect said agents to adapt to these new techniques so uniquely and how, at some intervals with adding more objects and obstacles, the agents were able to manipulate and adapt to these changes in order to successfully complete their objective.
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-text
+After this week's lecture, it struck me that due to the fact that I experienced learning about the networking models during high school, I can practically apply my knowledge onto real life scenarios through the networking model whenever possible, however I have realised that some models require additional logic and further mathematics in order to apply and explain said models, which could potentially affect the way I learn and understand new concepts.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-text
+A notable challenge I encountered and obverved was when I attempted to learn more about the Python programming language which is associated with the upcoming assignment, however most times when trying to understand basic code within the language, I felt that it could potentially clash with the language of Java, since I'm also learning that programming language at the same time in another subject of mine, so I need to learn how to balance and differentiate between the two more efficiently.
 
 ### What would I do better next time and with what anticipated results?
 
-text
-
-### What theory proved to be useful and why? What have I learnt from this?
-
-text
+As mentioned above, I need to essentially balance the workload for myself to understand and differentiate between the programming languages of Java and Python in order to assist myself and my team with the upcoming assignment for this subject, and additionally for my other subject's assessment tasks in relation to the Java programming language. For this subject in particular, as soon as I equally balance each language effectively, the better it will be for me and my team to complete the assignment at hand.
 
 ---
 
 ## Week 5
 
-### What have I learnt this week?
-
-text
-
-### What do I 'now know' that I did not before?
+### What have I learnt this week? What do I 'now know' that I did not before?
 
 text
 
@@ -162,11 +150,7 @@ text
 
 ## Week 6
 
-### What have I learnt this week?
-
-text
-
-### What do I 'now know' that I did not before?
+### What have I learnt this week? What do I 'now know' that I did not before?
 
 text
 
@@ -194,11 +178,7 @@ text
 
 ## Week 7
 
-### What have I learnt this week?
-
-text
-
-### What do I 'now know' that I did not before?
+### What have I learnt this week? What do I 'now know' that I did not before?
 
 text
 
@@ -226,11 +206,7 @@ text
 
 ## Week 8
 
-### What have I learnt this week?
-
-text
-
-### What do I 'now know' that I did not before?
+### What have I learnt this week? What do I 'now know' that I did not before?
 
 text
 
