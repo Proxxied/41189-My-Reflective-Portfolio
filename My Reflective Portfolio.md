@@ -124,27 +124,20 @@ As mentioned above, I need to essentially balance the workload for myself to und
 
 ### What have I learnt this week? What do I 'now know' that I did not before?
 
-text
+Reflecting on this week's lecture and subsequent new found knowledge and understandings of probability and distributions, including the normal distribution. It is clear cut that week 5 is all about interpreting and accurately predict patterns and trends about a particular characteristic of a system, which can potentially be used to portray the life expectancy of a system and surrounding outcomes. What really caught my attention was the long-tailed distrubition, which was a completely new concept for me personally, which arise due to feedbacks and interdependencies leading to a further increase of inequities, which is clearly undesirable. 
 
 ### What insights have I gained?
 
-text
+A key, fundamental insight I have gained through this week's lecture was the preferential attachment model, which is essentially portrays the links between different objects or people through a very unique perspective. It was confusing at first, however given some thought, it depicted that a particular person can easily influence the decisions of the following group members. Which confusing enough, can be explained through this sentence: *the probability of joining a particular entity equals its size divided by the number of arrivals to date.*
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-text
+A key observation I have made is the fact that I can easily understand the fundamental concepts of probability and further varying distributions, especially regarding the characteristics of normal distribution which I have previously learnt in high school, however a key weaknesses that I observed is the fact that if and when mathematics or an equation is used to explain a particular topic or model, it can potentially affect the way I interpet that topic, which is something I definitely want to work on improving.
 
-### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
-
-text
-
-### What would I do better next time and with what anticipated results?
-
-text
 
 ### What theory proved to be useful and why? What have I learnt from this?
 
-text
+This week's topics were especially interesting to me, simply due to the fact that the theory of the *Central Limit Theorem* peaked my interest the most, probably because of the functions of the *Galton Board* which is a mechanical tool used to accurately display a binomial or normal distribution through a physical medium. This theorem is essentially in a nutshell, a model for aggregation of decisions in groups of people which I have learnt especially through the Qantas example used that +-1 SD (standard deviation) includes 68% of possible outcomes, +-2 SD includes 95% of possible outcomes, and +-3 SD includes 99% of possible outcomes. In terms of the Qantas example previously mentioned, assume a typical Boeing 747-400 type aircraft can hold exactly 380 seats with a 90% turn up rate (average number of people showing up is 360) (SD = 6) resulting in 354-366 = 68%, 348-372 = 95%, and 342-378 = 99% of the time. Therefore: 99% of the time, the aircraft will never become overbooked. 
 
 ---
 
