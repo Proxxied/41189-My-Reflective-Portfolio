@@ -145,27 +145,23 @@ This week's topics were especially interesting to me, simply due to the fact tha
 
 ### What have I learnt this week? What do I 'now know' that I did not before?
 
-text
-
-### What insights have I gained?
-
-text
+As part of this week's tutorial, new topics were explored for me personally, including the Markov models, random walk models, and the concepts of broadcast, diffusion, and contagion models in understanding how these complex systems evolve over a period of time. I've also learnt in particular, that the random walks model can be used to assist in identifying a probable outcome, and in this case, the example used was illustrated with a drunk man whether or not he will fall of the cliff. Through the use of a probability tree, the eventual outcome was that it was generally a mathematically bad idea to be drunk and standing near a cliff. Nonetheless, it was also in my best interest to key into a fundamental theorem of the *Granovetter Threshold Theory* which is in a nutshell, a way of representing a probable cause to an action through individual thresholds when exceeded (more on this later).
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-text
+After today's lecture, it was clear that I had notable strengths in understanding and interpreting the random walks model, which was heavily assisted through the use of the summary video represented within the class, however I also noticed that prior to the summary video, I did have some initial struggles in understanding the concepts, probably because I was distracted with the various graphical representations within the slides, but definitely got back on track after the video was initiated.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-text
+As part of the upcoming assignment, it was clear that I needed to interact with my team more clearly, especially since the due date was by the end of week eight, so definitely identifying a topic now was extremely necessary. Thankfully though, after various back and forth conversations that were mostly off topic banter, we set a group leader and further agreed upon a relevant topic, which was the overall problems associated with new, upcoming social media platforms, including how they grow and become adopted within the surrounding community.
 
 ### What would I do better next time and with what anticipated results?
 
-text
+The primary improvement I could personally do better with is to manage my time efficiently and effectively, more or less to set sub-tasks with due dates before the primary task is due. This would not only help myself mentally via less overall stress, but probably boost my commitment to the subject, which to be honest is a bit of a lackluster all together. However there is still room for improvement, with the ultimate goal of achieving the highest grade possible.
 
 ### What theory proved to be useful and why? What have I learnt from this?
 
-text
+As mentioned previously, the theory that proved to not only be the most useful, but also the most interesting out of the bunch was definitely the *Granovetter Threshold Theory* which was explained through the use of 'riots'. Basically, each individual has their own personal thresholds, that if exceeded, will essentially perform a particular resulting action, which in this case, is joining a riot. Individuals with low thresholds are more susceptible to rioting compared to people with higher thresholds, which are only likely to riot if there is a substantial number of rioters on the field. This theory is useful because I can personally see a visual representation of this in today's society, with the context of town a containing people of lower thresholds far susceptable to rioting or actions that represent wrong doings. In Australia in particular, the country can be represented as town b, with people of higher thresholds whom are more reserved individuals, which therefore prevents riots from starting in the first place.
 
 ---
 
