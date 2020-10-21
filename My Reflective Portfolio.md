@@ -169,27 +169,23 @@ As mentioned previously, the theory that proved to not only be the most useful, 
 
 ### What have I learnt this week? What do I 'now know' that I did not before?
 
-text
+As part of this week's lecture content, I have been able to understand in much greater detail the concepts of emergent behaviours, including peer effects / social contagion, coordination / culture, and social learning. And a deeper analysis into the Standing Ovation Model, Granovetter's Riot Model, and Schelling's Segregation Model which without a doubt, helped me understand and apply that newfound knowledge into our group's assignment. In terms of what I now know that I didn't know before hand was through the perspective of the games theory (pure coordination games), culture can be modelled as a series of pure coodination games which alludes to the fact that the opinions of others sways the group leading to a segregation or diverse outcome.
 
 ### What insights have I gained?
 
-text
+As mentioned before in previous weeks, modelling through Schelling's segregation model has significantly assisted my understanding in terms of human behaviour and characteristics, as people tend to follow a certain rule in order for them to group up and form communities. In order to map this behaviour through this model, it is clear that people with similar interests tend to group up, whilst others with opposing interests, stray away from each other. 
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-text
+A definite known strengths is my application to understand and interpret these models into real life scenarios, for example the segregation model is evident through varying friend groups and communities, whereas my weaknesses is applying said knowledge through a mathematical format, which can slow down my learning quite notably. 
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-text
-
-### What would I do better next time and with what anticipated results?
-
-text
+In order to combat these challenges mentioned this weeks and the previous, myself and my team have contributed to the pre-submission assignment in small fragments at a time, in order to overcome the potential of poor time management that may result in lower standards of our report. This not only pushed us to perform in the task, but also indirectly helped us to better understand each other in terms of our strengths and weaknesses in regards to this subject in general. 
 
 ### What theory proved to be useful and why? What have I learnt from this?
 
-text
+The most useful theory as part of this week's content was undoubtly Schelling's Segregation Model and the use of the NetLogo application to better understand how to map this model from my own perspective. This model can be used and applied to as part of my group's upcoming pre-submission assignment, however this theory proved to be more useful to myself rather than my group, which could potentially affect if the segregation model will be applied in the aformentioned assignment.
 
 ---
 
