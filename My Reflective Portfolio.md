@@ -193,27 +193,24 @@ The most useful theory as part of this week's content was undoubtly Schelling's 
 
 ### What have I learnt this week? What do I 'now know' that I did not before?
 
-text
+This week was a heavy week for myself and my team, especially since the pre-submission was due at the end of this week. Because of this, I have learnt in detail how to best use the Jupyter Notebook application in detail in order to complete the task at hand using the Jupyter format, which to be honest, was really difficult at first since I haven't had any previous experiences with the application however, with the help of my team, we finalised and submitted the Github repository with succession. In terms of this week's learning content, I have learnt about the concepts of the Colonel Blotto Model and the Prisoners Dilemma Model, which are both part of the game theory models which essentially depicts an individual's effective reasoning behind the psychological decision making that each party processes with.
 
 ### What insights have I gained?
 
-text
+A notable insight I have gained from this week's content is the Prisoner's Dilemma model, which provides an assumed outcome through the 'best possible scenario' frame of mind, however what it misses out on is the fact that the best possible scenario for both agents are almost never chosen, because of the fact that human beings as a whole, is not only difficult to predict, but also nearly impossible to psychologically determine the choices and decisions the other agent is processing without actually communicating with them. 
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-text
+As alluded to in the opening paragraph of this week's reflection, a notable weakness that I have observed is to effectively use the Jupyter software efficiency and effectively as part of this upcoming assignment, despite this however, I have sinced learned how to use the program in order to complete the task at hand which consequently contributed to the resulting performance myself and my teammates did.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-text
+One of the challenges that I encountered and observed was the fact that some of my teammates had not previously used the Jupyter Notebook application before, which actually resulted in editing the master file directly using the Github website. This resulted in the master file becoming corrupted due to an input of incorrect code injected into said master file. This meant that our team leader had to revert the file to an older version which actually slowed us down, so we decided to allow a select number of members of the team to directly edit the file through Jupyter at each interval in order to prevent any problems or issues.
 
-### What would I do better next time and with what anticipated results?
-
-text
 
 ### What theory proved to be useful and why? What have I learnt from this?
 
-text
+Despite the Prisoner's Dliemma having caught my attention this week, I believe that the Colonel Blotto game was the most useful theory, as it can be practically established to anyone and essentially push each individual / agent to becoming a better overall individual. Leveling up the playing field per se, contributes to everyday life whereby balancing each aspect, for example in the form of time management, the overall outcome of completing university effectively is a mixture of equilibrium and chaos. This is simply due to the fact that the Colonel Blotto game provides us with the understanding that from an individual standpoint, regardless of skill or luck, can still complete the task at hand.
 
 ---
 
