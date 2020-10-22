@@ -218,55 +218,35 @@ Despite the Prisoner's Dliemma having caught my attention this week, I believe t
 
 ### What have I learnt this week? What do I 'now know' that I did not before?
 
-text
+Week 9 and onwards are structured a bit differently than the previous weeks, with no new content to learn about, however as part of this week's lecture task, we were required to provide feedback to other members of the subject alongside my teammates. This meant that we also received valuable feedback that was related to the pre-submission assignment task last week, more on this later. In addition to that task, another team member of our group further offered to myself and other inexperienced Jupyter Notebook users a chance to get to know the code in more detail, which without a doubt helped greatly in the continuation of this upcoming final assignment.
 
 ### What insights have I gained?
 
-text
+As mentioned previously, a fundamental insight I have gained this week was the very valuable feedback provided to our group as part of this week's task, which was to offer reasonable and appropriate feedback to other groups within this subject. We were kindly offered a few issues and recommendations that required attention, including the introduction and further body paragraphs. Feedback like this help pushed our group to succession in order to complete the task at hand.
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-text
+A definite weakness I have seen is my ability to manage my time efficiently and effectively, that meaning of actually taking the time to contribute to this assignment rather than focusing on other subjects due to the fact of "being lazy" as an example of an excuse. However, a known strength of mine is the ability to actually do work effectively, if and when my team requests something of me, I do it. 
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-text
-
-### What would I do better next time and with what anticipated results?
-
-text
-
-### What theory proved to be useful and why? What have I learnt from this?
-
-text
+A definite challenge is the lack of motivation I have at this current time, probably because of all the assignments that I have with other subjects, or maybe that our group is currently 'crawling' through this subject. But we at least talk and plan about the assignment, which is one way we handle the situation.
 
 ---
 
 ## Week 10
 
-### What have I learnt this week? What do I 'now know' that I did not before?
-
-text
-
 ### What insights have I gained?
 
-text
+As part of this week's tasks, my group have further discussed as a team about the issues brought to our attention from the peer review task in the previous week. This allowed us to become motivated to do better and thus, actually make some progress with team building and sub-tasks completion. I have without a doubt further enhanced my understanding of the overall language of Python and Jupyter in general, at least to the extent of this subject's assignment. But it still hasn't been a smooth ride, more on this later. Aside from that rambling, a valuable insight I have gained is a better understanding of the models we are using for our group's assignment. This is mainly because at the pre-submission stage of the assignment, I contributed more on the initial stages of the Github repository, including the introduction section, and the context, backgound information, and justification section of the project. The team assisted my understanding on the System Dynamics model, Networks, and Replicator Dynamics model which will be further explored as part of our final assignment.
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-text
+As mentioned earlier, a known weakness I have at the current time is my personal ability to differentiate between Java and Python, because unfortunately I keep becoming  confused between the two programming languages, which to be honest, isn't affecting my ability to complete this subject's assignment, but more on affecting my other subject more or less due to the differing codes. Nonetheless, a definite strength is bouncing back and improving my work efficiency for the benefit of my group, because I do not want to be the 'anchor' of our team.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-text
-
-### What would I do better next time and with what anticipated results?
-
-text
-
-### What theory proved to be useful and why? What have I learnt from this?
-
-text
+Challenges observed were through internal issues regarding the applications and prerequisites needed for our team to pursue with the assignment. This problem is mainly focused on the Jupyter Notebook in terms of successfully porting images and visual representations of the content as part of our assignment. This was resolved through a quick tutorial by another team member on how to port images using a third party website 'Imgur' in order to host images that can be used in our Notebook.
 
 ---
 
