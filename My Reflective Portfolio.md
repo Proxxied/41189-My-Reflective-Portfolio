@@ -268,28 +268,16 @@ As mentioned previously, this week's workshop provided reasonable evidence that 
 
 ## Week 12
 
-### What have I learnt this week? What do I 'now know' that I did not before?
-
-text
-
 ### What insights have I gained?
 
-text
+This week was a very unique week simply due to the fact that the workshop was cancelled because Juan decided to kindly let students focus their efforts more on the assignment rather than to potentially waste time in a lecture, which to be honest was a very positive move and actually helped our team in particular to push for success, given that our section three and four have yet to be finalised on the Juypter Notebook. The skipped lecture allowed my group to further explore in detail the models of system dynamics, networks, and replicator dynamics in terms of actually modelling the growth of new social media platforms which is our topic. This week our group has made sound progress in terms of section four in a private document before it will be uploaded on the Juypter Notebook for formatting reasons, yet I believe that we can still finish the task at hand before the due date, which mentioned last week was extended by an extra fortnight.
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-text
+A definite weakness I have observed for myself is the fact that time management and time efficiency are still on the weaker side of the spectrum than I honestly rather have it at, but then again shouldn't affect my overall performance for the assignment too much due to the extra time honered by Juan. On the other hand, a known strength that I have observed from myself is that if and when I'm actively working with my team to do a specific task for the assignment, my efforts are not short lived, which I never noticed until now.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-text
-
-### What would I do better next time and with what anticipated results?
-
-text
-
-### What theory proved to be useful and why? What have I learnt from this?
-
-text
+A known challenge that I have encountered was the fact when the team wanted to have a uniform group call at a particular time to obviously discuss the assignment at hand, it was relatively difficult to actually schedule a time when everyone in the group was available, which meant that virtual calling was simply impossible. The team handled this situation as effective as possible, leading to the group members providing important and valuable information in a text format and the not so important comments to be handled virtually. This actually helped productivity and essentially pushed our progress on the task substantially. 
 
 ---
