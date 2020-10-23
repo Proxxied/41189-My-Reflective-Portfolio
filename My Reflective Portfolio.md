@@ -252,29 +252,17 @@ Challenges observed were through internal issues regarding the applications and 
 
 ## Week 11
 
-### What have I learnt this week? What do I 'now know' that I did not before?
-
-text
-
 ### What insights have I gained?
 
-text
+This week granted a two week extension to the deadline, lightening the load our group has with the final Github submission, allowing our team to reform our content and excell our understanding of the task at hand. Another essential benefit for this extension was that I could personally finalise all my assignments from other subjects to later focus on this subject's assignment, pushing for a greater overall report at the end of the day.
 
 ### What are (my/the) perceived strengths and weaknesses that I have observed?
 
-text
+A definite weakness is still grasping my understanding of the entire Python language, but with the help of my team, they essentially guided me on how to use pre-existing code to speed up the process on implementing and formatting the text and images in succession. A perceived strength I have observed was assigning roles for each team member in order to even the load with our members, which directly supports the overall performance and productivity of our team.
 
 ### What were the challenges I have encountered/observed and how well (did I/my team) handle them?
 
-text
-
-### What would I do better next time and with what anticipated results?
-
-text
-
-### What theory proved to be useful and why? What have I learnt from this?
-
-text
+As mentioned previously, this week's workshop provided reasonable evidence that the way I worked with my group was simply unproductive, and I was essentially able to recognise that I could just inject pre-existing code to the report in order to speed up the process, as to a certain extent, the method I used before still worked at the end of the day, but was effectively time consuming and inefficient. So because of this, we as a team were able to adjust to this newfound information and took advantage of it. 
 
 ---
 
